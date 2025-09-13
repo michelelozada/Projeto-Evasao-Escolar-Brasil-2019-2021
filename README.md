@@ -54,9 +54,9 @@ Compostas por três fases principais:
 ## <img src="https://github.com/michelelozada/guia-rapido-michele/blob/main/assets/square-4.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Resultados gerados
 
 **Projeto-Evasao-Escolar-Brasil-2019-2021**  
-&nbsp;&nbsp;&nbsp;└── 📁 Notebooks da fase de Análise Exploratória de Dados ([link]())  
-&nbsp;&nbsp;&nbsp;└── 📁 Notebooks da fase de Modelagem e Avaliação dos Dados ([link]())  
-&nbsp;&nbsp;&nbsp;└── 📁 Dashboard desenvolvido no Power BI ([link]())  
+&nbsp;&nbsp;&nbsp;└── 📁 Notebooks da fase de Análise Exploratória de Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/exploracao_dados))  
+&nbsp;&nbsp;&nbsp;└── 📁 Notebooks da fase de Modelagem e Avaliação dos Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/modelagem_dados))  
+&nbsp;&nbsp;&nbsp;└── 📁 Dashboard desenvolvido no Power BI ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/powerbi_dashboard))  
 &nbsp;&nbsp;&nbsp;└── 📄 Relatório final com as notas metodológicas e resultados obtidos ([link no Canva](https://www.canva.com/design/DAGvDBEWAHU/GNYMMnfm_-NMLKRFRtnicw/view?utm_content=DAGvDBEWAHU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha19b35d59e))  
 &nbsp;&nbsp;&nbsp;└── 📄 Slides da apresentação final do projeto para a Comunidade Data Girls em 20/7/2025 ([link no Canva](https://www.canva.com/design/DAGr91Uku80/qXrgeH9tKeutITrKxpppwA/view?utm_content=DAGr91Uku80&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haf81ed95be))  
 &nbsp;&nbsp;&nbsp;└── 📄 Artigo no LinkedIn contando sobre como foi este projeto (aguardando publicação)  
