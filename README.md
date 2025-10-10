@@ -20,7 +20,7 @@ Esse é o repositório de um projeto de dados, cujo objetivo principal foi anali
 
 Os dados foram provenientes do Censo Escolar e de mais três painéis derivados referentes a estes anos, que foram compilados, organizados e divulgados pelo [Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)](https://www.gov.br/inep/pt-br).  
 
-Em virtude de uma das bases de dados — a base relativa às Taxas de Transição dos anos-base de 2021/2022 — [não ter sido disponibilizada ao público no site do Inep](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-transicao), outro objetivo foi estimar, através de modelo estatístico, o índice de evasão escolar para o ano de 2021.  
+Em virtude de uma das bases de dados — a base relativa às Taxas de Transição dos anos-base 2021/2022 — [não ter sido disponibilizada ao público no site do Inep](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-transicao), outro objetivo foi estimar, através de modelo estatístico, o índice de evasão escolar para o ano de 2021.  
 
 Esse projeto foi desenvolvido por Clarisse Quintão e Michele Lozada, como parte das atividades do time de Pesquisa & Desenvolvimento da [Comunidade Data Girls](https://br.linkedin.com/company/data-girls).  
 
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido por Clarisse Quintão e Michele Lozada, como parte
 
 ## <img src="./assets/square-2.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Etapas do projeto 
 
-Compostas por três fases principais:  
+Divididas em três fases principais:  
 
 1.  **Planejamento geral**  
       Com o entendimento do problema a ser resolvido e definição de objetivos, prazos e recursos necessários para a implementação do projeto.  
@@ -53,12 +53,12 @@ Compostas por três fases principais:
 **Demais pacotes e  módulos de apoio:**  
   `SHAP`, `math`, `missingno`, `zipfile` e `os`  
 
-**Ferramentas de desenvolvimento e análise:**  
+**Ferramenta de desenvolvimento e análise:**  
 • 	`Google Colab`  
-•	 `Power BI`  
+  
 &nbsp;
 
-> **Nota:** Foram utilizadas a metodologia CRISP-DM para guiar a condução do projeto de dados e a metodologia Scrum para o gerenciamento das sprints necessárias.  
+> **Nota:** Foram utilizadas as metodologias CRISP-DM para guiar a condução do projeto de dados e Scrum para o gerenciamento das sprints necessárias.  
 
 &nbsp;
 
@@ -67,7 +67,6 @@ Compostas por três fases principais:
 **Projeto-Evasao-Escolar-Brasil-2019-2021**  
 &nbsp;&nbsp;&nbsp;&nbsp; 📁 Notebooks da fase de Análise Exploratória de Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/exploracao_dados))  
 &nbsp;&nbsp;&nbsp;&nbsp; 📁 Notebooks da fase de Modelagem e Avaliação dos Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/modelagem_dados))  
-&nbsp;&nbsp;&nbsp;&nbsp; 📁 Dashboard desenvolvido no Power BI ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/powerbi_dashboard))  
 &nbsp;&nbsp;&nbsp;&nbsp; 📄 Relatório final com as notas metodológicas e resultados obtidos ([link no Canva](https://www.canva.com/design/DAGvDBEWAHU/GNYMMnfm_-NMLKRFRtnicw/view?utm_content=DAGvDBEWAHU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha19b35d59e))  
 &nbsp;&nbsp;&nbsp;&nbsp; 📄 Slides da apresentação final do projeto para a Comunidade Data Girls em 20/7/2025 ([link no Canva](https://www.canva.com/design/DAGr91Uku80/qXrgeH9tKeutITrKxpppwA/view?utm_content=DAGr91Uku80&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haf81ed95be))  
 &nbsp;&nbsp;&nbsp;&nbsp; 📄 Artigo no LinkedIn contando sobre como foi este projeto (aguardando publicação)  
