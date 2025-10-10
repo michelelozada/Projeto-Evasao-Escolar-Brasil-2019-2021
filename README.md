@@ -8,7 +8,7 @@
 	 <a href="#-etapas-do-projeto"> Etapas do projeto </a> •
 	 <a href="#-tecnologias-e-ferramentas-utilizadas"> Tecnologias e ferramentas utilizadas </a> •
 	 <a href="#-resultados-gerados"> Resultados gerados </a> •  
-	 <a href="#-contatos-das-autoras-do-projeto"> Contato das autoras </a>
+	 <a href="#-contatos-das-autoras-do-projeto"> Contatos das autoras </a>
 </p>
 
 &nbsp;
@@ -26,9 +26,9 @@ Esse projeto foi desenvolvido por Clarisse Quintão e Michele Lozada, como parte
 
 &nbsp;
 
-## <img src="./assets/square-2.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Etapas do projeto 
+## <img src="./assets/square-2.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Etapas do projeto
 
-Divididas em três fases principais:  
+Organizadas em três fases principais:    
 
 1.  **Planejamento geral**  
       Com o entendimento do problema a ser resolvido e definição de objetivos, prazos e recursos necessários para a implementação do projeto.  
@@ -54,7 +54,7 @@ Divididas em três fases principais:
   `SHAP`, `math`, `missingno`, `zipfile` e `os`  
 
 **Ferramenta de desenvolvimento e análise:**  
-• 	`Google Colab`  
+  `Google Colab`  
   
 &nbsp;
 
@@ -67,8 +67,8 @@ Divididas em três fases principais:
 **Projeto-Evasao-Escolar-Brasil-2019-2021**  
 &nbsp;&nbsp;&nbsp;&nbsp; 📁 Notebooks da fase de Análise Exploratória de Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/exploracao_dados))  
 &nbsp;&nbsp;&nbsp;&nbsp; 📁 Notebooks da fase de Modelagem e Avaliação dos Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/modelagem_dados))  
-&nbsp;&nbsp;&nbsp;&nbsp; 📄 Relatório final com as notas metodológicas e resultados obtidos ([link no Canva](https://www.canva.com/design/DAGvDBEWAHU/GNYMMnfm_-NMLKRFRtnicw/view?utm_content=DAGvDBEWAHU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha19b35d59e))  
-&nbsp;&nbsp;&nbsp;&nbsp; 📄 Slides da apresentação final do projeto para a Comunidade Data Girls em 20/7/2025 ([link no Canva](https://www.canva.com/design/DAGr91Uku80/qXrgeH9tKeutITrKxpppwA/view?utm_content=DAGr91Uku80&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haf81ed95be))  
+&nbsp;&nbsp;&nbsp;&nbsp; 📄 Relatório final com as notas metodológicas e resultados obtidos ([link no Canva](https://www.canva.com/design/DAG1abzY9Uc/mcn6nSbsDamsIROjxHe5SQ/view?utm_content=DAG1abzY9Uc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h314c8baabe))  
+&nbsp;&nbsp;&nbsp;&nbsp; 📄 Slides da apresentação final do projeto para a Comunidade Data Girls em 20/7/2025 ([link no Canva](https://www.canva.com/design/DAG1adKXpzk/GNkXETlSxpeYzerLwQMOnA/view?utm_content=DAG1adKXpzk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfc1e1799d2))  
 &nbsp;&nbsp;&nbsp;&nbsp; 📄 Artigo no LinkedIn contando sobre como foi este projeto (aguardando publicação)  
 
 &nbsp;
