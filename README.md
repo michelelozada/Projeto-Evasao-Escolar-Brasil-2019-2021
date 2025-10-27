@@ -1,5 +1,4 @@
 <div align="center">
-	<img src="./assets/cover.jpg">
 	<h1> Projeto Evasão Escolar no Ensino Médio <br> (Brasil, 2019-2021) </h1>
 </div>
 
@@ -13,7 +12,7 @@
 
 &nbsp;
 
-## <img src="./assets/square-1.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Descrição
+## Descrição
 
 
 Esse é o repositório de um projeto de dados, cujo objetivo principal foi analisar indicadores educacionais oficiais sobre a evasão escolar na etapa do Ensino Médio no Brasil entre os anos de 2019 e 2021, considerando o impacto gerado pela pandemia da COVID-19.   
@@ -26,7 +25,7 @@ Esse projeto foi desenvolvido por Clarisse Quintão e Michele Lozada, como parte
 
 &nbsp;
 
-## <img src="./assets/square-2.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Etapas do projeto
+## Etapas do projeto
 
 Organizadas em três fases principais:    
 
@@ -41,7 +40,7 @@ Organizadas em três fases principais:
     
 &nbsp;
 
-## <img src="./assets/square-3.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Tecnologias e ferramentas utilizadas
+## Tecnologias e ferramentas utilizadas
 
 **Linguagem e pacotes utilizados:**  
 `Python` e suas bibliotecas:  
@@ -53,7 +52,7 @@ Organizadas em três fases principais:
 **Demais pacotes e  módulos de apoio:**  
   `SHAP`, `math`, `missingno`, `zipfile` e `os`  
 
-**Ferramenta de desenvolvimento e análise:**  
+**Ferramenta de desenvolvimento:**  
   `Google Colab`  
   
 &nbsp;
@@ -62,7 +61,7 @@ Organizadas em três fases principais:
 
 &nbsp;
 
-## <img src="./assets/square-4.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Resultados gerados
+## Resultados gerados
 
 **Projeto-Evasao-Escolar-Brasil-2019-2021**  
 &nbsp;&nbsp;&nbsp;&nbsp; 📁 Notebooks da fase de Análise Exploratória de Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/exploracao_dados))  
@@ -73,7 +72,7 @@ Organizadas em três fases principais:
 
 &nbsp;
 
-## <img src="./assets/square-5.jpg?raw=true" style="width:20px; vertical-align: middle; margin-right: 10px;"> Contatos das autoras do projeto
+## Contatos das autoras do projeto
 
 -   **Clarisse Quintão:** [GitHub](https://github.com/cla-isse)  •  [LinkedIn](https://www.linkedin.com/in/clarisse-q-054430206/)  
 -   **Michele Lozada:** [GitHub](https://github.com/michelelozada)   •   [LinkedIn](https://www.linkedin.com/in/michelelozada/)
