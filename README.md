@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/main/assets/cover.png">
+	<img src="https://www.michelelozada.com.br/images_github/evasao_escolar/cover.png">
 	<h1> Projeto Evasão Escolar no Ensino Médio <br> (Brasil, 2019-2021) </h1>
 </div>
 
@@ -13,7 +13,7 @@
 
 &nbsp;
 
-## <img src="https://raw.githubusercontent.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/main/assets/square-1.png" style="width:20px; vertical-align: middle; margin-right: 10px;"> Descrição
+## <img src="https://www.michelelozada.com.br/images_github/evasao_escolar/square1.png" style="width:20px; vertical-align: middle; margin-right: 10px;"> Descrição
 
 
 Esse é o repositório de um projeto de dados, cujo objetivo principal foi analisar indicadores educacionais oficiais sobre a evasão escolar na etapa do Ensino Médio no Brasil entre os anos de 2019 e 2021, considerando o impacto gerado pela pandemia da COVID-19.   
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido por Clarisse Quintão e Michele Lozada, como parte
 
 &nbsp;
 
-## <img src="https://raw.githubusercontent.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/main/assets/square-2.png"  style="width:20px; vertical-align: middle; margin-right: 10px;"> Etapas do projeto
+## <img src="https://www.michelelozada.com.br/images_github/evasao_escolar/square2.png"  style="width:20px; vertical-align: middle; margin-right: 10px;"> Etapas do projeto
 
 Organizadas em três fases principais:    
 
@@ -41,7 +41,7 @@ Organizadas em três fases principais:
     
 &nbsp;
 
-## <img src="https://raw.githubusercontent.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/main/assets/square-3.png" style="width:20px; vertical-align: middle; margin-right: 10px;"> Tecnologias e ferramentas utilizadas
+## <img src="https://www.michelelozada.com.br/images_github/evasao_escolar/square3.png" style="width:20px; vertical-align: middle; margin-right: 10px;"> Tecnologias e ferramentas utilizadas
 
 **Linguagem e pacotes utilizados:**  
 `Python` e suas bibliotecas:  
@@ -62,7 +62,7 @@ Organizadas em três fases principais:
 
 &nbsp;
 
-## <img src="https://raw.githubusercontent.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/main/assets/square-4.png" style="width:20px; vertical-align: middle; margin-right: 10px;"> Resultados gerados
+## <img src="https://www.michelelozada.com.br/images_github/evasao_escolar/square4.png" style="width:20px; vertical-align: middle; margin-right: 10px;"> Resultados gerados
 
 **Projeto-Evasao-Escolar-Brasil-2019-2021**  
 &nbsp;&nbsp;&nbsp;&nbsp; 📁 Notebooks da fase de Análise Exploratória de Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/exploracao_dados))  
@@ -73,7 +73,7 @@ Organizadas em três fases principais:
 
 &nbsp;
 
-## <img src="https://raw.githubusercontent.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/main/assets/square-5.png" style="width:20px; vertical-align: middle; margin-right: 10px;"> Contatos das autoras do projeto
+## <img src="https://www.michelelozada.com.br/images_github/evasao_escolar/square5.png" style="width:20px; vertical-align: middle; margin-right: 10px;"> Contatos das autoras do projeto
 
 -   **Clarisse Quintão:** [GitHub](https://github.com/cla-isse)  •  [LinkedIn](https://www.linkedin.com/in/clarisse-q-054430206/)  
 -   **Michele Lozada:** [GitHub](https://github.com/michelelozada)   •   [LinkedIn](https://www.linkedin.com/in/michelelozada/)
