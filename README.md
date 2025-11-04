@@ -1,10 +1,10 @@
 <div align="center">
-	<img src="https://www.michelelozada.com.br/images_github/evasao_escolar/cover.png">
+<img src="https://www.michelelozada.com.br/images_github/evasao_escolar/cover_new.png">
 	<h1> Projeto Evasão Escolar no Ensino Médio <br> (Brasil, 2019-2021) </h1>
 </div>
 
  <p align="center">
-	 <a href="#-descri%C3%A7%C3%A3o"> Descrição </a>  •
+ <a href="#-descri%C3%A7%C3%A3o"> Descrição </a>  •
 	 <a href="#-etapas-do-projeto"> Etapas do projeto </a> •
 	 <a href="#-tecnologias-e-ferramentas-utilizadas"> Tecnologias e ferramentas utilizadas </a> •
 	 <a href="#-resultados-gerados"> Resultados gerados </a> •  
@@ -69,7 +69,7 @@ Organizadas em três fases principais:
 &nbsp;&nbsp;&nbsp;&nbsp; 📁 Notebooks da fase de Modelagem e Avaliação dos Dados ([link](https://github.com/michelelozada/Projeto-Evasao-Escolar-Brasil-2019-2021/tree/main/modelagem_dados))  
 &nbsp;&nbsp;&nbsp;&nbsp; 📄 Relatório final com as notas metodológicas e resultados obtidos ([link no Canva](https://www.canva.com/design/DAG1abzY9Uc/mcn6nSbsDamsIROjxHe5SQ/view?utm_content=DAG1abzY9Uc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h314c8baabe))  
 &nbsp;&nbsp;&nbsp;&nbsp; 📄 Slides da apresentação final do projeto para a Comunidade Data Girls em 20/7/2025 ([link no Canva](https://www.canva.com/design/DAG1adKXpzk/GNkXETlSxpeYzerLwQMOnA/view?utm_content=DAG1adKXpzk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfc1e1799d2))  
-&nbsp;&nbsp;&nbsp;&nbsp; 📄 Artigo no LinkedIn contando sobre como foi este projeto (aguardando publicação)  
+&nbsp;&nbsp;&nbsp;&nbsp; 📄 Artigo contando um pouco sobre como foi este projeto ([link no LinkedIn](https://pt.linkedin.com/pulse/breves-notas-sobre-anatomia-de-um-projeto-dados-data-girls-e0cqf?trk=public_post_feed-article-content))   
 
 &nbsp;
 
